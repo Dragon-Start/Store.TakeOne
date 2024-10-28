@@ -9,6 +9,11 @@ addon_xml="https://raw.githubusercontent.com/TakeOne-Team/REPO-TakeOne/main/Loja
 addon_name="[B]script.module.resolveurl[/B] [COLOR lime]5.1.147[/COLOR]"
 addon_image="https://raw.githubusercontent.com/TakeOne-Team/REPO-TakeOne/main/Loja/script.module.resolveurl/icon.png"
 addon_xml="https://raw.githubusercontent.com/TakeOne-Team/REPO-TakeOne/main/Loja/script.module.resolveurl/addon.xml"
+https://raw.githubusercontent.com/Dragon-Start/Store.TakeOne/refs/heads/main/app/f4mTester-4.2.3/addon.xml
+
+addon_name="[B]F4mTester[/B] [COLOR lime]4.2.3[/COLOR]"
+addon_image="https://raw.githubusercontent.com/Dragon-Start/Store.TakeOne/main/app/f4mTester-4.2.3/icon.png"
+addon_xml="https://raw.githubusercontent.com/Dragon-Start/Store.TakeOne/main/app/f4mTester-4.2.3/addon.xml"
 
 addon_name="[B]KODI HELPER[/B] [COLOR lime]0.0.4[/COLOR]"
 addon_image="https://raw.githubusercontent.com/TakeOne-Team/REPO-TakeOne/main/Loja/script.module.kodi-helper/icon.png"
